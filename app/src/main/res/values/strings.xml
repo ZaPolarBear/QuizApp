@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">QuizzApp</string>
+    <string name="start">НАЧАТЬ</string>
+    <string name="status_in_process">Status: in process</string>
+    <!-- strings.xml -->
+    <string name="actionlist">
+ActionList
+</string>
+    <string name="all_is_complete">All is complete!!!!</string>
+    <string name="final_text">FINAL</string>
+</resources>
